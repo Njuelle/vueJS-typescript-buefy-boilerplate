@@ -1,5 +1,11 @@
 # vuejs-typescript-buefy-boilerplate
 
+## Useful documentations
+* [Buefy](https://buefy.org/documentation/)
+* [Font-awesome](https://fontawesome.com/)
+* [Material design icons](https://materialdesignicons.com/)
+
+
 ## Project setup
 ```
 npm install
